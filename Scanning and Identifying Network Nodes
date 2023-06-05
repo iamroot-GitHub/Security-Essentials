@@ -1,1 +1,1 @@
-
+# In this activity, I used common network tools, such as local commands and the Nmap network mapper, to discover other hosts on the local network. Next, I conducted a banner grabbing exercise to identify specific services on the hosts. Finally, I used DNS tools to gather name resolution information.
