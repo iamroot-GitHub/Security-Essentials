@@ -21,6 +21,10 @@ I ran the ipconfig command to display the IP address configuration for the Windo
 
 ![ipconfig](https://github.com/iamroot-GitHub/Security-Essentials/blob/c500c96afce50a346d73b33a185169ee6aa6e32f/Images/SINN_05.png)
 
-I ran the pathping command to test the reliability (packet loss) and latency (delay) of the connection between the Windows Server VM and the Kali VM.
+I ran the pathping command to test the reliability (packet loss) and latency (delay) of the connection between the Windows Server VM and the Kali VM, discovering that the two machines are not very far apart on the network (on the same subnet in fact).
 
 ![pathping](https://github.com/iamroot-GitHub/Security-Essentials/blob/2d61d8f4b4dd0751db88245a97ece8886a063773/Images/SINN_06.png)
+
+I ran the nmap localhost command to scan the Kali VM (discovering port 22/tcp open), the nmap command to do a basic network scan, and the nmap -sS command to check the output (dicovering that SSH and DNS services are running).
+
+![nmap](https://github.com/iamroot-GitHub/Security-Essentials/blob/5f3732e3025b38ccdd7c764101a4ad80cda7c49a/Images/SINN_07.png)
