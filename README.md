@@ -4,3 +4,6 @@
 I ran the ifconfig command to display the interface configuration.
 
 ![ifconfig](https://github.com/iamroot-GitHub/Security-Essentials/blob/27da5d9d0de8f8d261f360198534d32e3b2a9b5f/Images/SINN_01.png)
+I ran the IP route show command to identify the default gateway.
+
+![IP route show](
