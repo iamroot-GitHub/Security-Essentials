@@ -11,4 +11,4 @@ I ran the IP route show command to identify the default gateway.
 
 I ran the arp -a command to check the ARP cache to display other hosts local to this subnet.
 
-![arp -a](
+![arp -a](https://github.com/iamroot-GitHub/Security-Essentials/blob/4adc0384d2fa94fc7bf59cfe3906a65d72ed3c7b/Images/SINN_03.png)
