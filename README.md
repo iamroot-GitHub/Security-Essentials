@@ -20,3 +20,7 @@ I ran the netdiscover command to verify whether any other hosts were present.
 I ran the ipconfig command to display the IP address configuration for the Windows Server.
 
 ![ipconfig](https://github.com/iamroot-GitHub/Security-Essentials/blob/c500c96afce50a346d73b33a185169ee6aa6e32f/Images/SINN_05.png)
+
+I ran the pathping command to test the reliability (packet loss) and latency (delay) of the connection between the Windows Server VM and the Kali VM.
+
+![pathping](https://github.com/iamroot-GitHub/Security-Essentials/blob/2d61d8f4b4dd0751db88245a97ece8886a063773/Images/SINN_06.png)
