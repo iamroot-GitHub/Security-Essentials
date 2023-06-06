@@ -16,3 +16,7 @@ I ran the arp -a command to check the ARP cache to display other hosts local to 
 I ran the netdiscover command to verify whether any other hosts were present.
 
 ![netdiscover](https://github.com/iamroot-GitHub/Security-Essentials/blob/75e30aeab96bef93e99ba648630e5d1609672b2c/Images/SINN_04.png)
+
+I ran the ipconfig command to display the IP address configuration for the Windows Server.
+
+![ipconfig](https://github.com/iamroot-GitHub/Security-Essentials/blob/c500c96afce50a346d73b33a185169ee6aa6e32f/Images/SINN_05.png)
