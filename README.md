@@ -28,3 +28,7 @@ I ran the pathping command to test the reliability (packet loss) and latency (de
 I ran the nmap localhost command to scan the Kali VM (discovering port 22/tcp open), the nmap command to do a basic network scan, and the nmap -sS command to check the output (dicovering that SSH and DNS services are running).
 
 ![nmap](https://github.com/iamroot-GitHub/Security-Essentials/blob/5f3732e3025b38ccdd7c764101a4ad80cda7c49a/Images/SINN_07.png)
+
+I ran the nmap -A command to identify more about the host, discovering that the host was running the Linux OS.
+
+![nmap -A](
