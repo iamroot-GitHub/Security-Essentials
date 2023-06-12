@@ -32,3 +32,7 @@ I ran the nmap localhost command to scan the Kali VM (discovering port 22/tcp op
 I ran the nmap -A command to identify more about the host, discovering that the host was running the Linux OS.
 
 ![nmap -A](https://github.com/iamroot-GitHub/Security-Essentials/blob/d1b81d605c6b0720af72ec714ed9ba5df25ff296/Images/SINN_08.png)
+
+I ran the nmap -p and nmap --top-ports for open ports 20-200 and the 20 most common ports.
+
+I ran the nmap -sn command to quickly scan the network for hosts that were up or down to discover which server was configured as an email server.
